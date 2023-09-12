@@ -1,5 +1,5 @@
 # Code based off Tech With Tim's Python Aim Trainer Youtube video
-# Added some additional code/features -> play again feature and leaderboard
+# Added some additional code/features -> play again feature and best stats feature
 
 import math
 import random
